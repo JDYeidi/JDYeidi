@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/qYTn6z4fjSqXK" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-work-hungover-qYTn6z4fjSqXK">via GIPHY</a></p>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0Y3F0NWtldG4wdjd0cnk4MjZkajJ6M21iZTVqOHcwY21rZnp5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qYTn6z4fjSqXK/giphy-downsized-large.gif)f" width="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Juan Daniel Aranda Morales</h1>
