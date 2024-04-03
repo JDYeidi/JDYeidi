@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
----
-
 ### :woman_technologist: About Me :
 <h1 align="center">Hi 👋, I'm Juan Daniel Aranda Morales</h1>
 <h3 align="center">Robotics and Digital System Engineer | Software Engineer | Embedded systems | Python Developer</h3>
