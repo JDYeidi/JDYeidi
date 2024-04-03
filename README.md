@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB1NmprM2N5dXgwdzJpamg1ZnEwY3EwcTI4aW01cjFieHBhdm5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uKdWH5XvhAru/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVvdmJ5ZHU2OTRoYzNmNnNvZjVrM21ib293ZmlyY2ljc201c3lzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NFggbnBvFwKbK/giphy.gif" width="100"/>
   <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/juanmoralesirs/?locale=en_US)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
