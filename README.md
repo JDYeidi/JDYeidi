@@ -1,5 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/qYTn6z4fjSqXK" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-work-hungover-qYTn6z4fjSqXK">via GIPHY</a></p>
+</div>
 
-<iframe src="https://giphy.com/embed/qYTn6z4fjSqXK" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-work-hungover-qYTn6z4fjSqXK">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Juan Daniel Aranda Morales</h1>
 <h3 align="center">Robotics and Digital System Engineer | Software Engineer | Embedded systems | Python Developer | Knowledge of SQL, IA, ML, IoT, C++, Robotics, Linux</h3>
 
