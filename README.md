@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Daniel Aranda Morales</h1>
-<h3 align="center">---</h3>
+<h3 align="center">Robotics and Digital System Engineer | Software Engineer | Embedded systems | Python Developer | Knowledge of SQL, IA, ML, IoT, C++, Robotics, Linux</h3>
 
 - 🔭 I’m currently working as **Robotics and Computer Vision Developer.**
 
