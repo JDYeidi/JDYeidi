@@ -1,6 +1,6 @@
 [<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/qYTn6z4fjSqXK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mrw-work-hungover-qYTn6z4fjSqXK">via GIPHY</a></p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0Y3F0NWtldG4wdjd0cnk4MjZkajJ6M21iZTVqOHcwY21rZnp5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qYTn6z4fjSqXK/giphy-downsized-large.gif)
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx](https://giphy.com/gifs/mrw-work-hungover-qYTn6z4fjSqXK)/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0Y3F0NWtldG4wdjd0cnk4MjZkajJ6M21iZTVqOHcwY21rZnp5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qYTn6z4fjSqXK/giphy-downsized-large.gif)" width="100"/>
+  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx](https://giphy.com/gifs/mrw-work-hungover-qYTn6z4fjSqXK)/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ0Y3F0NWtldG4wdjd0cnk4MjZkajJ6M21iZTVqOHcwY21rZnp5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qYTn6z4fjSqXK/giphy-downsized-large.gif)" width="400"/>
 </div>
 <h1 align="center">Hi 👋, I'm Juan Daniel Aranda Morales</h1>
 <h3 align="center">Robotics and Digital System Engineer | Software Engineer | Embedded systems | Python Developer | Knowledge of SQL, IA, ML, IoT, C++, Robotics, Linux</h3>
