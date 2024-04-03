@@ -19,6 +19,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
 
 
-- 🔭 I’m currently working as a **Robotics and Computer Vision Developer.**
+- :telescope: I’m working as a Robotics and Computer Vision Developer for AI applications.
 
-- 📫 How to reach me **juan.arandamor@gmail.com**
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
