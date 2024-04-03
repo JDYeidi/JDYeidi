@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpxaDZxZXNzaWhhM251bGl6NXZkd29rendtbnVnMWZ6N2Y5ZmU2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iLsDDqQYZJWpy/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpxaDZxZXNzaWhhM251bGl6NXZkd29rendtbnVnMWZ6N2Y5ZmU2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iLsDDqQYZJWpy/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Juan Daniel Aranda Morales</h1>
 <h3 align="center">Robotics and Digital System Engineer | Software Engineer | Embedded systems | Python Developer | Knowledge of SQL, IA, ML, IoT, C++, Robotics, Linux</h3>
