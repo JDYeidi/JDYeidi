@@ -26,3 +26,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanmoralesirs/?locale=en_US)
+
+### :woman_technologist: Experience :
+
+- 🎓 B.S. in Robotics and Digital Systems ITESM CEM (August 2019 – June 2023)
+- 🧪 Concentration in Advanced A.I. and Data Science. 
+- 💻 Robotics and CV Engineer @ RoomieIT (August 2023– Present)
+- 💻 Software Developer Intern @ NDS Cognitive Labs (August – October 2022)
+- 📚 +10 Software Developer certifications.
+- 💬 English: Intermediate - Advanced (Pearson Test of Eng General Ps- B2)
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
